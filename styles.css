@@ -1,0 +1,26 @@
+body { background-color:rgb(216, 71, 216);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blanchedalmond;
+}
+
+h1{text-align: center;
+    text-decoration: underline;
+}
+
+div{ text-align: center;
+     background-color: rgb(245, 9, 127);
+     border-radius: 3px;
+     margin-left: 550px;
+     margin-right: 550px;
+}
+
+p{  display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100%;
+}
+
+#boton{ background-color: rgb(247, 95, 95);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     border-radius: 3px;
+}
